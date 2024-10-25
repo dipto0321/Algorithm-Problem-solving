@@ -12,8 +12,7 @@ def narcissistic(value):
     """
     digits = [int(x) for x in str(value)]
     digit_len = len(digits)
-    total = sum(digit**digit_len for digit in digits)
-    return total == value
+    return sum(digit**digit_len for digit in digits) == value
 
 
-print(narcissistic(153))
+print(narcissistic(372))
