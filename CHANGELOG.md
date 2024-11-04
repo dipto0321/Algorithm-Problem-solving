@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2024-11-04
+#### Features
+- solved hackerrank minion_games problem - (f51612c) - Dipto Karmakar
+- solved codeware problem name clear days count - (944b7c3) - Dipto Karmakar
+- solved codeware problem name lucky seven - (853840c) - Dipto Karmakar
+- solved codeware problem name cricket world cup - (2e2aa6e) - Dipto Karmakar
+
+- - -
+
 ## 0.1.0 - 2024-10-25
 #### Documentation
 - Added readme - (d50c8a7) - Dipto Karmakar
